@@ -1,0 +1,22 @@
+{
+  "name": "is-bintest",
+  "version": "1.0.0",
+  "description": "test package.  is to test give value is bintest or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binit98486/npm-package.git"
+  },
+  "keywords": [
+    "BINIT"
+  ],
+  "author": "Binint Lamichhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binit98486/npm-package/issues"
+  },
+  "homepage": "https://github.com/Binit98486/npm-package#readme"
+}
